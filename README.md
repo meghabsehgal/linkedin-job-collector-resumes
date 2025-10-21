@@ -16,6 +16,8 @@ This automation collects job listings from LinkedIn RSS feeds, stores them in Ai
 - LinkedIn job RSS feed (e.g., via [Feedly](https://feedly.com) or any feed service)
 
 ---
+Visual representation of the workflow
+![Screenshot](images/linkedin_make_workflow.png)
 
 ## 🧠 Scenario Breakdown
 
